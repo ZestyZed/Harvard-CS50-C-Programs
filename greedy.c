@@ -35,7 +35,7 @@ int main(void)
     {
     coins = coins + 1;
     change = change - quarter;
-    }
+    } 
 
     while (change >= dime)
     {
